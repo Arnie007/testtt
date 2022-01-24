@@ -1,0 +1,69 @@
+{
+    "dbb": {
+        "prefixes": {
+            "main": ".",
+            "servers": {}
+        },
+        "owners": [
+            "661160046335623188"
+        ]
+    },
+    "discord": {
+        "servers": {
+            "702932489865265163": {
+                "embedname.list": [
+                    {
+                        "title": "Oznámení",
+                        "type": "rich",
+                        "description": "We shall go on to the end, we shall fight in France, we shall fight on the seas and oceans, we shall fight with growing confidence and growing strength in the air, we shall defend our Island, whatever the cost may be, we shall fight on the beaches, we shall fight on the landing grounds, we shall fight in the fields and in the streets, we shall fight in the hills; we shall never surrender, and even if, which I do not for a moment believe, this Island or a large part of it were subjugated and starving, then our Empire beyond the seas, armed and guarded by the British Fleet, would carry on the struggle, until, in God’s good time, the New World, with all its power and might, steps forth to the rescue and the liberation of the old.",
+                        "timestamp": null,
+                        "color": 15014691,
+                        "fields": [],
+                        "thumbnail": {
+                            "url": "https://cdn.discordapp.com/attachments/721443184604872765/884744038362791976/20210904_195323_0000.png"
+                        },
+                        "image": {},
+                        "author": {
+                            "name": "Governum",
+                            "icon_url": "https://cdn.discordapp.com/attachments/721443184604872765/884744038362791976/20210904_195323_0000.png"
+                        },
+                        "footer": {
+                            "text": "Governum",
+                            "icon_url": "https://cdn.discordapp.com/attachments/721443184604872765/884744038362791976/20210904_195323_0000.png"
+                        }
+                    }
+                ]
+            }
+        },
+        "members": {},
+        "users": {
+            "661160046335623188": {
+                "money": "100000",
+                "cooldownweek": "2021-09-09T12:39:21.772Z",
+                "ucet": 100000
+            },
+            "620957882174930944": {
+                "money": 100000
+            },
+            "599990694878117889": {
+                "money": 101000,
+                "cooldownweek": "2021-09-09T12:52:09.288Z",
+                "ucet": 100000
+            },
+            "881558668074700840": {
+                "money": 100000
+            },
+            "547486894313832486": {
+                "money": "150000000"
+            },
+            "502857547657773056": {
+                "money": 100000
+            },
+            "395315222652518400": {
+                "money": 100000
+            }
+        }
+    },
+    "blocks": {},
+    "custom": {}
+}
